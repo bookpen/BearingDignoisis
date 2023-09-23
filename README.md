@@ -19,7 +19,7 @@
 
 ​											工况1_2，情况：坏
 
-<img src="data\split_data\test\Bearing1_2\12b.jpg" alt="12b" style="zoom:150%;" />
+<img src="result/bad.jpg" alt="12b" style="zoom:150%;" />
 
 ​											工况1_2，情况：好
 
