@@ -29,11 +29,11 @@
 
 ​											工况1_2，情况：坏
 
-![bearing1_2_b](result\bearing1_2_b.png)
+![bearing1_2_b](src="result\bearing1_2_b.png")
 
 ​											工况1_2，情况：好
 
-![bearing1_2_g](result\bearing1_2_g.png)
+![bearing1_2_g](src="result\bearing1_2_g.png")
 
 修改计算策略
 
