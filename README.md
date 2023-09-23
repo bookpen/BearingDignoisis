@@ -13,27 +13,27 @@
 
 训练集：
 
-数据为244x244的热力学图。
+数据为224x224的热力学图。
 
 横坐标为频域范围为0-32768，纵坐标为取样的时间切片范围为0-10，然后resize成224x224
 
 ​											工况1_2，情况：坏
 
-<img src="C:\Users\86186\Desktop\ViT\result\bad.jpg" alt="bad" style="zoom:150%;" />
+<img src="result\bad.jpg" alt="bad" style="zoom:150%;" />
 
 ​											工况1_2，情况：好
 
-<img src="C:\Users\86186\Desktop\ViT\result\good.jpg" alt="good" style="zoom:150%;" />
+<img src="result\good.jpg" alt="good" style="zoom:150%;" />
 
 # Attention-ViT可解释性
 
 ​											工况1_2，情况：坏
 
-![bearing1_2_b](C:\Users\86186\Desktop\ViT\result\bearing1_2_b.png)
+![bearing1_2_b](result\bearing1_2_b.png)
 
 ​											工况1_2，情况：好
 
-![bearing1_2_g](C:\Users\86186\Desktop\ViT\result\bearing1_2_g.png)
+![bearing1_2_g](result\bearing1_2_g.png)
 
 修改计算策略
 
