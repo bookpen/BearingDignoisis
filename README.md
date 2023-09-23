@@ -19,21 +19,21 @@
 
 ​											工况1_2，情况：坏
 
-<img src="C:\Users\86186\Desktop\ViT\data\split_data\test\Bearing1_2\12b.jpg" alt="12b" style="zoom:150%;" />
+<img src="C:\Users\86186\Desktop\ViT\result\bad.jpg" alt="bad" style="zoom:150%;" />
 
 ​											工况1_2，情况：好
 
-<img src="C:\Users\86186\Desktop\ViT\data\split_data\test\Bearing1_2\27g.jpg" alt="27g" style="zoom:150%;" />
+<img src="C:\Users\86186\Desktop\ViT\result\good.jpg" alt="good" style="zoom:150%;" />
 
 # Attention-ViT可解释性
 
 ​											工况1_2，情况：坏
 
-![b12_b](C:\Users\86186\Desktop\ViT\result\b12_b.png)
+![bearing1_2_b](C:\Users\86186\Desktop\ViT\result\bearing1_2_b.png)
 
 ​											工况1_2，情况：好
 
-![b12_g](C:\Users\86186\Desktop\ViT\result\b12_g.png)
+![bearing1_2_g](C:\Users\86186\Desktop\ViT\result\bearing1_2_g.png)
 
 修改计算策略
 
